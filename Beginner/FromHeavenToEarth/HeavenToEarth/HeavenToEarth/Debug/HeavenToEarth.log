@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\olivi\desktop\chefcode\beginner\fromheaventoearth\heaventoearth\heaventoearth\main.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  HeavenToEarth.vcxproj -> C:\Users\olivi\Desktop\chefcode\Beginner\FromHeavenToEarth\HeavenToEarth\Debug\HeavenToEarth.exe
+  HeavenToEarth.vcxproj -> C:\Users\olivi\Desktop\chefcode\Beginner\FromHeavenToEarth\HeavenToEarth\Debug\HeavenToEarth.pdb (Partial PDB)
